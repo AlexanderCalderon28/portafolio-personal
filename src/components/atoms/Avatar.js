@@ -8,7 +8,11 @@ const Avatar = ({ src, alt, size = 140 }) => (
         roundedCircle
         width={size}
         height={size}
-        className="mb-3"
+        className="mb-3 shadow border border-3 border-light"
+        style={{
+            objectFit: 'cover',
+            objectPosition: 'center top'
+        }}
     />
 );
 

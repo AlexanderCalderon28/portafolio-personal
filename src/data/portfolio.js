@@ -5,7 +5,7 @@ export const profile = {
   title: 'Estudiante de Analista Programador',
   description:
       'Hola, soy Alexander Calderón, estudiante de la carrera de Analista Programador en Duoc UC (Sede Maipú). Me apasiona el desarrollo de software y la creación de interfaces web modernas, funcionales y accesibles, aplicando estándares limpios y metodologías basadas en componentes con React y tecnologías Front-End',
-  avatar: '/mi-foto.jpg',
+  avatar: '/mi-foto.jpg.jpeg',
   email: 'alex.calderonm@duocuc.cl',
   phone: '+56 9 9996 0425',
   linkedin: 'https://www.linkedin.com/in/tu-usuario',
