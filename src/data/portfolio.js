@@ -6,7 +6,7 @@ export const profile = {
   description:
       'Desarrollador Front-End apasionado por crear interfaces accesibles, responsivas y bien estructuradas con React y Bootstrap.',
   avatar: buildPlaceholder('AC'),
-  email: 'contacto@ejemplo.com',
+  email: 'alex.calderonm@duocuc.cl',
   phone: '+56 9 1234 5678',
   linkedin: 'https://www.linkedin.com/in/tu-usuario',
   github: 'https://github.com/tu-usuario',
