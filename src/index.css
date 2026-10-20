@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+section {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
